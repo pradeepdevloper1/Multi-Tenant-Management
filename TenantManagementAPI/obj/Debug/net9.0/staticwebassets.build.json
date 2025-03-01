@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vUjERTdS032zrcHOhIfaQQLcYiIonV+g2GwcjwyYq+E=",
+  "Source": "TenantManagementAPI",
+  "BasePath": "_content/TenantManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
